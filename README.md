@@ -2,7 +2,6 @@
 
 ## 1. Mục tiêu
 
-> _(Viết 2-3 câu: project này giải quyết vấn đề gì, cho ai dùng, dùng để ra quyết định gì)_
 
 Theo dõi và phân tích dữ liệu sản phẩm từ các shop bán hàng trên **Shopee** và **TikTok Shop**, nhằm:
 - Theo dõi biến động giá / lượt bán / rating theo thời gian
